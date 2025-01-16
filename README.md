@@ -22,15 +22,15 @@ The autoencoder is tested on two well-known datasets:
 
 ## Getting Started
 
-### Prerequisites
-- Python 3.8 or higher
-- Libraries:
-  - `torch`
-  - `torchvision`
-  - `matplotlib`
-  - `pandas`
-  - `scikit-learn`
+* If you are running **locally**:
+   1. Clone the repository.
+   2. Create a virtual environment.
+   3. Install in the venv all the packages listed in `requirements.txt`.
+   4. Open the notebook `dim_reduction.ipynb`.
+   5. Run the notebook.
 
-Install the required packages with:
-```bash
-pip install torch torchvision matplotlib pandas scikit-learn
+
+* If you are using **Colab**(reccomended):
+   1. Download the notebook `dim_reduction.ipynb`.
+   2. Open the notebook in your Google Colab.
+   3. Run the notebook.
