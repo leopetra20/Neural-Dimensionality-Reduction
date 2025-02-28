@@ -30,7 +30,7 @@ The autoencoder is tested on two well-known datasets:
    5. Run the notebook.
 
 
-* If you are using **Colab**(reccomended):
+* If you are using **Colab** (reccomended):
    1. Download the notebook `dim_reduction.ipynb`.
    2. Open the notebook in your Google Colab.
    3. Run the notebook.
